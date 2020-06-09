@@ -1,6 +1,6 @@
 export const buyCake=()=>{
     return{
-        type:'BUY_CAKES'
+        type:'BUY_CAKE'
     }
 }
 
